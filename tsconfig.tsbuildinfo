@@ -126,8 +126,8 @@
         "signature": "913dba4eedcd1ce248e40804a4b769ccfa21dee5add9ba5fa8635e2d97912d4f"
       },
       "./node_modules/@loopback/metadata/dist/decorator-factory.d.ts": {
-        "version": "d8581ddbf930fe30e54decf999ac0f4d68017f8b231ca1c23136d1f330f37e70",
-        "signature": "d8581ddbf930fe30e54decf999ac0f4d68017f8b231ca1c23136d1f330f37e70"
+        "version": "40820868f7564ace5644aeef1fc9e45bba92a8c195599b11cb530de74e08c0ec",
+        "signature": "40820868f7564ace5644aeef1fc9e45bba92a8c195599b11cb530de74e08c0ec"
       },
       "./node_modules/@loopback/metadata/dist/inspector.d.ts": {
         "version": "7f086e0f2a27155af51f033ed73e4d8b0aaf4bbab318ded029aa396eba8aee4d",
@@ -453,25 +453,181 @@
         "version": "52d43df1ab59c4e67aa63ac33cc5229ff50d2888c53e3e8b4c4361e7a1857d48",
         "signature": "52d43df1ab59c4e67aa63ac33cc5229ff50d2888c53e3e8b4c4361e7a1857d48"
       },
-      "./src/index.ts": {
-        "version": "7f460797144230f3041960dde2ae9327e23ef9d888bb20a9994c00ef01b20a7a",
-        "signature": "7f460797144230f3041960dde2ae9327e23ef9d888bb20a9994c00ef01b20a7a"
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/types.d.ts": {
+        "version": "796871d58d2d477ecb2cc1a9dda7a67773fec26ecfa8277470ce60d18a6c0edd",
+        "signature": "796871d58d2d477ecb2cc1a9dda7a67773fec26ecfa8277470ce60d18a6c0edd"
       },
-      "./node_modules/@types/connect/index.d.ts": {
-        "version": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82",
-        "signature": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82"
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/decorator-factory.d.ts": {
+        "version": "0449799fbb04e5c04a19debe6919c821a374a4f8de2c0e1c2969696818d66e34",
+        "signature": "0449799fbb04e5c04a19debe6919c821a374a4f8de2c0e1c2969696818d66e34"
       },
-      "./node_modules/@types/body-parser/index.d.ts": {
-        "version": "599abfa56230d73afc30a3bde749c2efd90acb58301b446835d5e235b35e2768",
-        "signature": "599abfa56230d73afc30a3bde749c2efd90acb58301b446835d5e235b35e2768"
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/reflect.d.ts": {
+        "version": "913dba4eedcd1ce248e40804a4b769ccfa21dee5add9ba5fa8635e2d97912d4f",
+        "signature": "913dba4eedcd1ce248e40804a4b769ccfa21dee5add9ba5fa8635e2d97912d4f"
       },
-      "./node_modules/@types/cookiejar/index.d.ts": {
-        "version": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56",
-        "signature": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56"
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/inspector.d.ts": {
+        "version": "d80a494920a582eb5d4237d4406afd0f5671b2ef132d402c09c78d0eda5da7d4",
+        "signature": "d80a494920a582eb5d4237d4406afd0f5671b2ef132d402c09c78d0eda5da7d4"
       },
-      "./node_modules/@types/eslint-visitor-keys/index.d.ts": {
-        "version": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
-        "signature": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c"
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts": {
+        "version": "16bd2b5e8ef81da4b6ab7a15095d567f6106b038d0fbf921d47da2dde85bfb71",
+        "signature": "16bd2b5e8ef81da4b6ab7a15095d567f6106b038d0fbf921d47da2dde85bfb71"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts": {
+        "version": "2cdd8767cb7da4b62b608ad5db3a92966dd243fbf5c4ff261f65765dfb63342e",
+        "signature": "2cdd8767cb7da4b62b608ad5db3a92966dd243fbf5c4ff261f65765dfb63342e"
+      },
+      "./node_modules/@types/debug/index.d.ts": {
+        "version": "3cf5f191d75bbe7c92f921e5ae12004ac672266e2be2ece69f40b1d6b1b678f9",
+        "signature": "3cf5f191d75bbe7c92f921e5ae12004ac672266e2be2ece69f40b1d6b1b678f9"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts": {
+        "version": "38c2ab7c45a3323221a064c95dba3bb0b2ad1a9264de356d8125e482cb7e1490",
+        "signature": "38c2ab7c45a3323221a064c95dba3bb0b2ad1a9264de356d8125e482cb7e1490"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts": {
+        "version": "d20e447f0d157575127718d7b0e3be7b26237e782736b05950f7507274ee3c77",
+        "signature": "d20e447f0d157575127718d7b0e3be7b26237e782736b05950f7507274ee3c77"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts": {
+        "version": "9bfcab0ec65c815b8a94810511cba1cebb17827e7da21345baf1ee3ab6f64b88",
+        "signature": "9bfcab0ec65c815b8a94810511cba1cebb17827e7da21345baf1ee3ab6f64b88"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts": {
+        "version": "b2a4b38f665e85ead49386ec386ddd61c15f1a0bac4fd56e2f6b00e2a586fbde",
+        "signature": "b2a4b38f665e85ead49386ec386ddd61c15f1a0bac4fd56e2f6b00e2a586fbde"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts": {
+        "version": "3bdd225121b0c595c3b2869a407bae204d69e6073cc1bb02a272ba09e23f739b",
+        "signature": "3bdd225121b0c595c3b2869a407bae204d69e6073cc1bb02a272ba09e23f739b"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts": {
+        "version": "0d6ca6103e54da86beae46f92232fbfdd2aaf71f448ec70a9dfe57020f2f4698",
+        "signature": "0d6ca6103e54da86beae46f92232fbfdd2aaf71f448ec70a9dfe57020f2f4698"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-config.d.ts": {
+        "version": "bab66d53a6740ceb64f736b1f7fe8f3b6bebc35226da79b057f0d2634b44422d",
+        "signature": "bab66d53a6740ceb64f736b1f7fe8f3b6bebc35226da79b057f0d2634b44422d"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts": {
+        "version": "c5585372ebc8327964a7eb4b397ad45d06c26a12386976f7eb3bdbeae7721ad9",
+        "signature": "c5585372ebc8327964a7eb4b397ad45d06c26a12386976f7eb3bdbeae7721ad9"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts": {
+        "version": "ffd36069db6aedf1b99239714e69dec4355bcf95a6b34efe47e8ebe3567bf3fe",
+        "signature": "ffd36069db6aedf1b99239714e69dec4355bcf95a6b34efe47e8ebe3567bf3fe"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-subscription.d.ts": {
+        "version": "66df2e0ca83a64c8cb776fb38e04fbbe69aec9430bd73797152d8092fc70cffa",
+        "signature": "66df2e0ca83a64c8cb776fb38e04fbbe69aec9430bd73797152d8092fc70cffa"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-tag-indexer.d.ts": {
+        "version": "6eecd085adb47e82920a6639910b6ed251fecb87766b2680dce4b2f0d8b565e8",
+        "signature": "6eecd085adb47e82920a6639910b6ed251fecb87766b2680dce4b2f0d8b565e8"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-view.d.ts": {
+        "version": "3181f22023be990b03c19f79ab3439ac6dd09807d893b379eb3e78da1454e78a",
+        "signature": "3181f22023be990b03c19f79ab3439ac6dd09807d893b379eb3e78da1454e78a"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts": {
+        "version": "e9d811f0f99fa6e091a37ed917f6ed5270d740c098b08ccb7a60e01389ba4eca",
+        "signature": "e9d811f0f99fa6e091a37ed917f6ed5270d740c098b08ccb7a60e01389ba4eca"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts": {
+        "version": "a969127a1cbfdf769c5c8963388a8cf50433d9128e4df5e0c39cb6b67d53f13f",
+        "signature": "a969127a1cbfdf769c5c8963388a8cf50433d9128e4df5e0c39cb6b67d53f13f"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts": {
+        "version": "f45ea1d2e8d8194540dd72cb98692510ad1e798013f8fcdea415ca2bd171e7e8",
+        "signature": "f45ea1d2e8d8194540dd72cb98692510ad1e798013f8fcdea415ca2bd171e7e8"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-inspector.d.ts": {
+        "version": "14cf86989c54a31a62fe29ade886f6333c22c11ec6dee65041bdb42dc3bc1afe",
+        "signature": "14cf86989c54a31a62fe29ade886f6333c22c11ec6dee65041bdb42dc3bc1afe"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-decorator.d.ts": {
+        "version": "e688f047b7c251f316840536f5f8f251d39451a604291e3b49c9fd764d9242bc",
+        "signature": "e688f047b7c251f316840536f5f8f251d39451a604291e3b49c9fd764d9242bc"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject-config.d.ts": {
+        "version": "18b5b28c2da1b1cfa31f15b24162f186eee81539aafbd57e260b7d633b307ed0",
+        "signature": "18b5b28c2da1b1cfa31f15b24162f186eee81539aafbd57e260b7d633b307ed0"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts": {
+        "version": "a18ace638551c62a955aa36cc0fa29e2b30fae560f16ca9800ae735799e6f5f1",
+        "signature": "a18ace638551c62a955aa36cc0fa29e2b30fae560f16ca9800ae735799e6f5f1"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interception-proxy.d.ts": {
+        "version": "6f21e52680feacb8a31f5c579f5990da5dd9e40af737c8e5d129bbe5ffc6f633",
+        "signature": "6f21e52680feacb8a31f5c579f5990da5dd9e40af737c8e5d129bbe5ffc6f633"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor-chain.d.ts": {
+        "version": "d02c788cb1f374a34f7f5a88d3090658e001df079f644cac8a0111ae9ecdb228",
+        "signature": "d02c788cb1f374a34f7f5a88d3090658e001df079f644cac8a0111ae9ecdb228"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor.d.ts": {
+        "version": "52667059addf688529e6e007a485a6802bb769bfe313e9ac58577161eb0a2c94",
+        "signature": "52667059addf688529e6e007a485a6802bb769bfe313e9ac58577161eb0a2c94"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/keys.d.ts": {
+        "version": "6d5dbd4e92f05c38eba3d60eb7806175ec4d0f645855d55f27dceff8d6165c22",
+        "signature": "6d5dbd4e92f05c38eba3d60eb7806175ec4d0f645855d55f27dceff8d6165c22"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolver.d.ts": {
+        "version": "df25ce355ea5207ea528e454ef1d53a649ffae6fcf0dd1d70e4e3188383a080d",
+        "signature": "df25ce355ea5207ea528e454ef1d53a649ffae6fcf0dd1d70e4e3188383a080d"
+      },
+      "./node_modules/hyperid/index.d.ts": {
+        "version": "54cffd51511f4abe0a34c3eecf40059df4fe0716d51f30561c8ff2a06c7c8308",
+        "signature": "54cffd51511f4abe0a34c3eecf40059df4fe0716d51f30561c8ff2a06c7c8308"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/unique-id.d.ts": {
+        "version": "6465d857aee892bdd7e95fd8bab907ba29b830819346c033e42f7c70731aeaa0",
+        "signature": "6465d857aee892bdd7e95fd8bab907ba29b830819346c033e42f7c70731aeaa0"
+      },
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts": {
+        "version": "2b62eb1488abd2d34a1fc492ace6f97ae102658246d289574d7e64c344f63c4a",
+        "signature": "2b62eb1488abd2d34a1fc492ace6f97ae102658246d289574d7e64c344f63c4a"
+      },
+      "./node_modules/@loopback/core/dist/lifecycle.d.ts": {
+        "version": "a36a6bdc1eed703f4b095839ea028eb87b49c860f45fc30a0a070bad0972f56d",
+        "signature": "a36a6bdc1eed703f4b095839ea028eb87b49c860f45fc30a0a070bad0972f56d"
+      },
+      "./node_modules/@loopback/core/dist/server.d.ts": {
+        "version": "60b225c508e9a3014de670077ee9e6b5b0e7aece91fdb15f27823b5313de1326",
+        "signature": "60b225c508e9a3014de670077ee9e6b5b0e7aece91fdb15f27823b5313de1326"
+      },
+      "./node_modules/@loopback/core/dist/component.d.ts": {
+        "version": "68ef9846f5faedffe2491b06c5d0138d94d7d6b603694cbe0d1487d1e5f2498d",
+        "signature": "68ef9846f5faedffe2491b06c5d0138d94d7d6b603694cbe0d1487d1e5f2498d"
+      },
+      "./node_modules/@loopback/core/dist/service.d.ts": {
+        "version": "da7e4fcd4292841c864edf96b95d9f4f2062f8693cb7f3a6507f633c8ede4f6b",
+        "signature": "da7e4fcd4292841c864edf96b95d9f4f2062f8693cb7f3a6507f633c8ede4f6b"
+      },
+      "./node_modules/@loopback/core/dist/application.d.ts": {
+        "version": "e031f4b69a28465bae39a698d93aeaaf956e760e450cdf6f1cb5277168297c6a",
+        "signature": "e031f4b69a28465bae39a698d93aeaaf956e760e450cdf6f1cb5277168297c6a"
+      },
+      "./node_modules/@loopback/core/dist/extension-point.d.ts": {
+        "version": "af02c2124da8975390ac3f325a316a973e8b0c8091297b0696d78c66ef7e2dd1",
+        "signature": "af02c2124da8975390ac3f325a316a973e8b0c8091297b0696d78c66ef7e2dd1"
+      },
+      "./node_modules/@loopback/core/dist/lifecycle-registry.d.ts": {
+        "version": "e5f017ded6060328c92680b93cc5df0b1733ce0029e42c7f52165fee00f27d5c",
+        "signature": "e5f017ded6060328c92680b93cc5df0b1733ce0029e42c7f52165fee00f27d5c"
+      },
+      "./node_modules/@loopback/core/dist/keys.d.ts": {
+        "version": "3a41cccdcbb7bf9ea6a98decc29438f857e362f0b83c84c091414221e20542ba",
+        "signature": "3a41cccdcbb7bf9ea6a98decc29438f857e362f0b83c84c091414221e20542ba"
+      },
+      "./node_modules/@loopback/core/dist/mixin-target.d.ts": {
+        "version": "8f9d1fe49618e199f19bcc9e7a807e4fb735413027709f49284e3a1ddad36b3e",
+        "signature": "8f9d1fe49618e199f19bcc9e7a807e4fb735413027709f49284e3a1ddad36b3e"
+      },
+      "./node_modules/@loopback/core/dist/index.d.ts": {
+        "version": "df99a4d3930a061299dfb2a36a772dbe4798d22c61fcc9f1c72974ff54b11cfd",
+        "signature": "df99a4d3930a061299dfb2a36a772dbe4798d22c61fcc9f1c72974ff54b11cfd"
       },
       "./node_modules/@types/range-parser/index.d.ts": {
         "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
@@ -489,9 +645,113 @@
         "version": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0",
         "signature": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0"
       },
+      "./node_modules/@types/connect/index.d.ts": {
+        "version": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82",
+        "signature": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82"
+      },
+      "./node_modules/@types/body-parser/index.d.ts": {
+        "version": "599abfa56230d73afc30a3bde749c2efd90acb58301b446835d5e235b35e2768",
+        "signature": "599abfa56230d73afc30a3bde749c2efd90acb58301b446835d5e235b35e2768"
+      },
       "./node_modules/@types/express/index.d.ts": {
         "version": "1f92cdebe2b1e0e6309ccdb6e8700cfd2d3e7131c7842f91b38ed1e4ff2a7090",
         "signature": "1f92cdebe2b1e0e6309ccdb6e8700cfd2d3e7131c7842f91b38ed1e4ff2a7090"
+      },
+      "./src/websocket-demo-application.ts": {
+        "version": "ef84b1b803647536781944f06793adff1341784850e2869a7804f88703e6ba82",
+        "signature": "aa1cb62120d4b31e372498bb705e65091dc23e464b8953451d62544674f087c7"
+      },
+      "./src/index.ts": {
+        "version": "19860511d483eb8faabc030352aafe1daa70f925e6a3bbf17f5d8dd3bf75c15b",
+        "signature": "19860511d483eb8faabc030352aafe1daa70f925e6a3bbf17f5d8dd3bf75c15b"
+      },
+      "./node_modules/@types/socket.io-client/index.d.ts": {
+        "version": "7255e9138b74f3fe8a9910bf3e711d43be1399ab8a0554bad34dc766511059be",
+        "signature": "7255e9138b74f3fe8a9910bf3e711d43be1399ab8a0554bad34dc766511059be"
+      },
+      "./node_modules/@types/cookiejar/index.d.ts": {
+        "version": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56",
+        "signature": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56"
+      },
+      "./node_modules/@types/superagent/index.d.ts": {
+        "version": "dc5ff565b22046c7e0fe8d7dd3bbc1fa6926426a048975c6ef2856c846d67f6c",
+        "signature": "dc5ff565b22046c7e0fe8d7dd3bbc1fa6926426a048975c6ef2856c846d67f6c"
+      },
+      "./node_modules/@types/supertest/index.d.ts": {
+        "version": "02a185b5e8d74b38264ffb77baa99e83969ba558958df28f971528dcbdd94876",
+        "signature": "02a185b5e8d74b38264ffb77baa99e83969ba558958df28f971528dcbdd94876"
+      },
+      "./node_modules/@loopback/testlab/dist/client.d.ts": {
+        "version": "8798c3585d1bfd609f6b802f813536de0933c96c7af0a4a3c78a5a761271817d",
+        "signature": "8798c3585d1bfd609f6b802f813536de0933c96c7af0a4a3c78a5a761271817d"
+      },
+      "./node_modules/@loopback/testlab/should-as-function.d.ts": {
+        "version": "e0bcc7ecaf53e76bf21f3660a85db7eedeb36ceeb58969801858095658d1428d",
+        "signature": "e0bcc7ecaf53e76bf21f3660a85db7eedeb36ceeb58969801858095658d1428d"
+      },
+      "./node_modules/@loopback/testlab/dist/expect.d.ts": {
+        "version": "5791b63ac312a792f888401243acd5084f27c2c76792d436fa68e9581a74bd6d",
+        "signature": "5791b63ac312a792f888401243acd5084f27c2c76792d436fa68e9581a74bd6d"
+      },
+      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts": {
+        "version": "1d965675096492c8b8634e95d2ba80df0937100c1ca1a4be0aa521f2fcf4e679",
+        "signature": "1d965675096492c8b8634e95d2ba80df0937100c1ca1a4be0aa521f2fcf4e679"
+      },
+      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts": {
+        "version": "6f7adb0fde4fc91bd80121071803a8a14aebc82753c0519f5296ff3cdb6c1f11",
+        "signature": "6f7adb0fde4fc91bd80121071803a8a14aebc82753c0519f5296ff3cdb6c1f11"
+      },
+      "./node_modules/@loopback/testlab/dist/request.d.ts": {
+        "version": "c709aec57d3b37e1912fa18272d9886c5b95a8f316bda8ff26535949d4ccdd61",
+        "signature": "c709aec57d3b37e1912fa18272d9886c5b95a8f316bda8ff26535949d4ccdd61"
+      },
+      "./node_modules/@types/shot/index.d.ts": {
+        "version": "1858582b6b5b66476d2885696bd490e58d7a2eb0d48f505e214967ca00acd0ea",
+        "signature": "1858582b6b5b66476d2885696bd490e58d7a2eb0d48f505e214967ca00acd0ea"
+      },
+      "./node_modules/@loopback/testlab/dist/shot.d.ts": {
+        "version": "961727d598660ac8b25b1cfc25551dee20190dff1e21b65e5308bbe263a7a8cc",
+        "signature": "961727d598660ac8b25b1cfc25551dee20190dff1e21b65e5308bbe263a7a8cc"
+      },
+      "./node_modules/@types/sinon/ts3.1/index.d.ts": {
+        "version": "9e3da7edaee190a056237f7ec5104b021f3423df51daa00cd255200b0f3ac4d5",
+        "signature": "9e3da7edaee190a056237f7ec5104b021f3423df51daa00cd255200b0f3ac4d5"
+      },
+      "./node_modules/@loopback/testlab/dist/sinon.d.ts": {
+        "version": "8db60cfc9bee37981b64c02e58ff9073edcb116507065947cee87bee58508bdc",
+        "signature": "8db60cfc9bee37981b64c02e58ff9073edcb116507065947cee87bee58508bdc"
+      },
+      "./node_modules/@loopback/testlab/dist/skip.d.ts": {
+        "version": "71c85b35493110fcbf7fbd961e5df88e184991b4c9ecf6888e930ed7a8983b25",
+        "signature": "71c85b35493110fcbf7fbd961e5df88e184991b4c9ecf6888e930ed7a8983b25"
+      },
+      "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts": {
+        "version": "e0f5120de4d243bcc58b96c1dce6766727f0f73bc40755f018b88c8f45f85de5",
+        "signature": "e0f5120de4d243bcc58b96c1dce6766727f0f73bc40755f018b88c8f45f85de5"
+      },
+      "./node_modules/@loopback/testlab/dist/to-json.d.ts": {
+        "version": "d22280c29a0d4d6acba8968091ed9b772946c78e36d4b0cb7eca1803b8b8c2f0",
+        "signature": "d22280c29a0d4d6acba8968091ed9b772946c78e36d4b0cb7eca1803b8b8c2f0"
+      },
+      "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts": {
+        "version": "8730131999f563de6b559e35f6253007cd311e676e9d17999c9287dd3e11e618",
+        "signature": "8730131999f563de6b559e35f6253007cd311e676e9d17999c9287dd3e11e618"
+      },
+      "./node_modules/@loopback/testlab/dist/index.d.ts": {
+        "version": "97d8ffd49d4931bdad195b7990e1c4d7092360a23f66a0eb2fb8fae518944376",
+        "signature": "97d8ffd49d4931bdad195b7990e1c4d7092360a23f66a0eb2fb8fae518944376"
+      },
+      "./node_modules/@loopback/testlab/index.d.ts": {
+        "version": "7a2e61c39a796bc532f2ae96df4d20652613935311d2a1798f5374a1d07ca732",
+        "signature": "7a2e61c39a796bc532f2ae96df4d20652613935311d2a1798f5374a1d07ca732"
+      },
+      "./src/test/acceptance/websocket.acceptance.ts": {
+        "version": "ebe7b0c2a5d773b0df0916f8e850fcd265e4997c0da0ba64eafe7824e40b33dd",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "./node_modules/@types/eslint-visitor-keys/index.d.ts": {
+        "version": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "signature": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c"
       },
       "./node_modules/@types/fs-extra/index.d.ts": {
         "version": "02f8dc4777a4efb7efdc6613659540925b2a5660b483f9fa12cbc1b3ddef6050",
@@ -504,26 +764,6 @@
       "./node_modules/@types/mocha/index.d.ts": {
         "version": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205",
         "signature": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205"
-      },
-      "./node_modules/@types/shot/index.d.ts": {
-        "version": "1858582b6b5b66476d2885696bd490e58d7a2eb0d48f505e214967ca00acd0ea",
-        "signature": "1858582b6b5b66476d2885696bd490e58d7a2eb0d48f505e214967ca00acd0ea"
-      },
-      "./node_modules/@types/sinon/ts3.1/index.d.ts": {
-        "version": "9e3da7edaee190a056237f7ec5104b021f3423df51daa00cd255200b0f3ac4d5",
-        "signature": "9e3da7edaee190a056237f7ec5104b021f3423df51daa00cd255200b0f3ac4d5"
-      },
-      "./node_modules/@types/socket.io-client/index.d.ts": {
-        "version": "7255e9138b74f3fe8a9910bf3e711d43be1399ab8a0554bad34dc766511059be",
-        "signature": "7255e9138b74f3fe8a9910bf3e711d43be1399ab8a0554bad34dc766511059be"
-      },
-      "./node_modules/@types/superagent/index.d.ts": {
-        "version": "dc5ff565b22046c7e0fe8d7dd3bbc1fa6926426a048975c6ef2856c846d67f6c",
-        "signature": "dc5ff565b22046c7e0fe8d7dd3bbc1fa6926426a048975c6ef2856c846d67f6c"
-      },
-      "./node_modules/@types/supertest/index.d.ts": {
-        "version": "02a185b5e8d74b38264ffb77baa99e83969ba558958df28f971528dcbdd94876",
-        "signature": "02a185b5e8d74b38264ffb77baa99e83969ba558958df28f971528dcbdd94876"
       }
     },
     "options": {
@@ -1224,31 +1464,353 @@
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./src/index.ts": [
-        "./src/core/index.ts",
-        "./src/controllers/index.ts",
-        "./src/decorators/index.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/types.d.ts": [
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/connect/index.d.ts": [
-        "./node_modules/@types/node/http.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/decorator-factory.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/types.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/reflect.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/inspector.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/reflect.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/types.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/decorator-factory.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/inspector.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/reflect.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/types.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/debug/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-config.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-subscription.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts",
         "./node_modules/@types/node/ts3.2/index.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/body-parser/index.d.ts": [
-        "./node_modules/@types/connect/index.d.ts",
-        "./node_modules/@types/node/http.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-tag-indexer.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-view.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-subscription.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
         "./node_modules/@types/node/ts3.2/index.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/cookiejar/index.d.ts": [
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts": [
+        "./node_modules/@types/debug/index.d.ts",
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-config.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-subscription.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-tag-indexer.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-view.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/eslint-visitor-keys/index.d.ts": [
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-inspector.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-decorator.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-inspector.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject-config.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interception-proxy.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor-chain.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-inspector.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor-chain.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/keys.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-config.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolver.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/hyperid/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/unique-id.d.ts": [
+        "./node_modules/hyperid/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-config.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-decorator.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-inspector.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-subscription.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-view.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject-config.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interception-proxy.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor-chain.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/keys.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolver.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/unique-id.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/lifecycle.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/server.d.ts": [
+        "./node_modules/@loopback/core/dist/lifecycle.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/component.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/application.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle.d.ts",
+        "./node_modules/@loopback/core/dist/server.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/service.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/application.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/application.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/component.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle.d.ts",
+        "./node_modules/@loopback/core/dist/server.d.ts",
+        "./node_modules/@loopback/core/dist/service.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/extension-point.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/lifecycle-registry.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/keys.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/application.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle-registry.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/mixin-target.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/index.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/application.d.ts",
+        "./node_modules/@loopback/core/dist/component.d.ts",
+        "./node_modules/@loopback/core/dist/extension-point.d.ts",
+        "./node_modules/@loopback/core/dist/keys.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle-registry.d.ts",
+        "./node_modules/@loopback/core/dist/mixin-target.d.ts",
+        "./node_modules/@loopback/core/dist/server.d.ts",
+        "./node_modules/@loopback/core/dist/service.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1274,6 +1836,19 @@
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "./node_modules/@types/connect/index.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/body-parser/index.d.ts": [
+        "./node_modules/@types/connect/index.d.ts",
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "./node_modules/@types/express/index.d.ts": [
         "./node_modules/@types/body-parser/index.d.ts",
         "./node_modules/@types/serve-static/index.d.ts",
@@ -1281,32 +1856,29 @@
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/fs-extra/index.d.ts": [
-        "./node_modules/@types/node/fs.d.ts",
-        "./node_modules/@types/node/ts3.2/index.d.ts",
+      "./src/websocket-demo-application.ts": [
+        "./node_modules/@loopback/core/dist/index.d.ts",
+        "./node_modules/@loopback/http-server/index.d.ts",
+        "./node_modules/@types/express/index.d.ts",
+        "./node_modules/@types/node/path.d.ts",
+        "./src/core/index.ts",
+        "./src/controllers/index.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/json-schema/index.d.ts": [
-        "./node_modules/@types/node/util.d.ts",
-        "./node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "./node_modules/@types/mocha/index.d.ts": [
-        "./node_modules/@types/node/util.d.ts",
-        "./node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "./node_modules/@types/shot/index.d.ts": [
-        "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/node/stream.d.ts",
-        "./node_modules/@types/node/ts3.2/index.d.ts",
-        "./node_modules/@types/node/util.d.ts",
-        "./node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "./node_modules/@types/sinon/ts3.1/index.d.ts": [
+      "./src/index.ts": [
+        "./src/core/index.ts",
+        "./src/controllers/index.ts",
+        "./src/decorators/index.ts",
+        "./src/websocket-demo-application.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "./node_modules/@types/socket.io-client/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/cookiejar/index.d.ts": [
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1321,6 +1893,125 @@
       ],
       "./node_modules/@types/supertest/index.d.ts": [
         "./node_modules/@types/superagent/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/client.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/supertest/index.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/should-as-function.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/expect.d.ts": [
+        "./node_modules/@loopback/testlab/should-as-function.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts": [
+        "./node_modules/@types/express/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts": [
+        "./node_modules/@types/node/https.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/request.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/shot/index.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/shot.d.ts": [
+        "./node_modules/@types/express/index.d.ts",
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/shot/index.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/sinon/ts3.1/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/sinon.d.ts": [
+        "./node_modules/@types/sinon/ts3.1/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/skip.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/to-json.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/index.d.ts": [
+        "./node_modules/@loopback/testlab/dist/client.d.ts",
+        "./node_modules/@loopback/testlab/dist/expect.d.ts",
+        "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts",
+        "./node_modules/@loopback/testlab/dist/http-server-config.d.ts",
+        "./node_modules/@loopback/testlab/dist/request.d.ts",
+        "./node_modules/@loopback/testlab/dist/shot.d.ts",
+        "./node_modules/@loopback/testlab/dist/sinon.d.ts",
+        "./node_modules/@loopback/testlab/dist/skip.d.ts",
+        "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts",
+        "./node_modules/@loopback/testlab/dist/to-json.d.ts",
+        "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/index.d.ts": [
+        "./node_modules/@loopback/testlab/dist/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./src/test/acceptance/websocket.acceptance.ts": [
+        "./node_modules/@types/socket.io-client/index.d.ts",
+        "./node_modules/@loopback/testlab/index.d.ts",
+        "./src/websocket-demo-application.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/eslint-visitor-keys/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/fs-extra/index.d.ts": [
+        "./node_modules/@types/node/fs.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/json-schema/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/mocha/index.d.ts": [
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ]
@@ -1498,7 +2189,13 @@
       "./src/index.ts": [
         "./src/core/index.ts",
         "./src/controllers/index.ts",
-        "./src/decorators/index.ts"
+        "./src/decorators/index.ts",
+        "./src/websocket-demo-application.ts"
+      ],
+      "./src/websocket-demo-application.ts": [
+        "./node_modules/@loopback/http-server/index.d.ts",
+        "./src/core/index.ts",
+        "./node_modules/@loopback/core/dist/index.d.ts"
       ],
       "./src/core/websocket-controller-factory.ts": [
         "./node_modules/@loopback/context/index.d.ts",
@@ -1750,6 +2447,67 @@
         "./node_modules/@types/node/ts3.2/globals.d.ts",
         "./node_modules/@types/node/util.d.ts"
       ],
+      "./node_modules/@types/fs-extra/index.d.ts": [
+        "./node_modules/@types/node/fs.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/shot.d.ts": [
+        "./node_modules/@types/express/index.d.ts",
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/shot/index.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/index.d.ts": [
+        "./node_modules/@loopback/testlab/dist/client.d.ts",
+        "./node_modules/@loopback/testlab/dist/expect.d.ts",
+        "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts",
+        "./node_modules/@loopback/testlab/dist/http-server-config.d.ts",
+        "./node_modules/@loopback/testlab/dist/request.d.ts",
+        "./node_modules/@loopback/testlab/dist/shot.d.ts",
+        "./node_modules/@loopback/testlab/dist/sinon.d.ts",
+        "./node_modules/@loopback/testlab/dist/skip.d.ts",
+        "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts",
+        "./node_modules/@loopback/testlab/dist/to-json.d.ts",
+        "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/index.d.ts": [
+        "./node_modules/@loopback/testlab/dist/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/shot/index.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/request.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts": [
+        "./node_modules/@types/node/https.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/client.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/supertest/index.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "./node_modules/@types/superagent/index.d.ts": [
         "./node_modules/@types/node/fs.d.ts",
         "./node_modules/@types/node/https.d.ts",
@@ -1764,15 +2522,27 @@
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/shot/index.d.ts": [
+      "./node_modules/@types/body-parser/index.d.ts": [
+        "./node_modules/@types/connect/index.d.ts",
         "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/node/stream.d.ts",
         "./node_modules/@types/node/ts3.2/index.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/fs-extra/index.d.ts": [
-        "./node_modules/@types/node/fs.d.ts",
+      "./node_modules/@types/express/index.d.ts": [
+        "./node_modules/@types/body-parser/index.d.ts",
+        "./node_modules/@types/serve-static/index.d.ts",
+        "./node_modules/@types/express-serve-static-core/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts": [
+        "./node_modules/@types/express/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/connect/index.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
         "./node_modules/@types/node/ts3.2/index.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
@@ -1785,29 +2555,301 @@
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/express/index.d.ts": [
-        "./node_modules/@types/body-parser/index.d.ts",
-        "./node_modules/@types/serve-static/index.d.ts",
-        "./node_modules/@types/express-serve-static-core/index.d.ts",
-        "./node_modules/@types/node/util.d.ts",
-        "./node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "./node_modules/@types/serve-static/index.d.ts": [
         "./node_modules/@types/express-serve-static-core/index.d.ts",
         "./node_modules/@types/mime/index.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/body-parser/index.d.ts": [
-        "./node_modules/@types/connect/index.d.ts",
-        "./node_modules/@types/node/http.d.ts",
+      "./node_modules/@loopback/core/dist/application.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/component.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle.d.ts",
+        "./node_modules/@loopback/core/dist/server.d.ts",
+        "./node_modules/@loopback/core/dist/service.d.ts",
         "./node_modules/@types/node/ts3.2/index.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/connect/index.d.ts": [
-        "./node_modules/@types/node/http.d.ts",
+      "./node_modules/@loopback/core/dist/index.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/application.d.ts",
+        "./node_modules/@loopback/core/dist/component.d.ts",
+        "./node_modules/@loopback/core/dist/extension-point.d.ts",
+        "./node_modules/@loopback/core/dist/keys.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle-registry.d.ts",
+        "./node_modules/@loopback/core/dist/mixin-target.d.ts",
+        "./node_modules/@loopback/core/dist/server.d.ts",
+        "./node_modules/@loopback/core/dist/service.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/keys.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/application.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle-registry.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/service.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/application.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/component.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/application.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle.d.ts",
+        "./node_modules/@loopback/core/dist/server.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
         "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-config.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-decorator.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-inspector.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-subscription.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-view.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject-config.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interception-proxy.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor-chain.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/keys.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolver.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/unique-id.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/mixin-target.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/lifecycle-registry.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/lifecycle.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/extension-point.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/lifecycle.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/dist/server.d.ts": [
+        "./node_modules/@loopback/core/dist/lifecycle.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-inspector.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor-chain.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-inspector.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-decorator.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-inspector.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts": [
+        "./node_modules/@types/debug/index.d.ts",
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-config.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-subscription.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-tag-indexer.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-view.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolver.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor-chain.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interception-proxy.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-view.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-subscription.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-tag-indexer.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-subscription.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts",
+        "./node_modules/@types/node/ts3.2/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-config.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/keys.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-config.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject-config.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2025,7 +3067,36 @@
       "./node_modules/@types/node/util.d.ts": [
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/socket.io-client/index.d.ts": [
+      "./node_modules/@types/mocha/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/json-schema/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/eslint-visitor-keys/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/to-json.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/skip.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/sinon.d.ts": [
+        "./node_modules/@types/sinon/ts3.1/index.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2033,11 +3104,20 @@
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/mocha/index.d.ts": [
+      "./node_modules/@loopback/testlab/dist/expect.d.ts": [
+        "./node_modules/@loopback/testlab/should-as-function.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/json-schema/index.d.ts": [
+      "./node_modules/@loopback/testlab/should-as-function.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/cookiejar/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/socket.io-client/index.d.ts": [
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2049,11 +3129,61 @@
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/eslint-visitor-keys/index.d.ts": [
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/unique-id.d.ts": [
+        "./node_modules/hyperid/index.d.ts",
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./node_modules/@types/cookiejar/index.d.ts": [
+      "./node_modules/hyperid/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/debug/index.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts": [
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/decorator-factory.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/inspector.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/reflect.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/types.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/inspector.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/reflect.d.ts",
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/types.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/reflect.d.ts": [
+        "./node_modules/reflect-metadata/index.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/decorator-factory.d.ts": [
+        "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/types.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/types.d.ts": [
         "./node_modules/@types/node/util.d.ts",
         "./node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2169,24 +3299,84 @@
       "./src/core/index.ts",
       "./src/controllers/websocket.controller.ts",
       "./src/controllers/index.ts",
-      "./src/index.ts",
-      "./node_modules/@types/connect/index.d.ts",
-      "./node_modules/@types/body-parser/index.d.ts",
-      "./node_modules/@types/cookiejar/index.d.ts",
-      "./node_modules/@types/eslint-visitor-keys/index.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/types.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/decorator-factory.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/reflect.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/inspector.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/metadata/dist/index.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-key.d.ts",
+      "./node_modules/@types/debug/index.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/value-promise.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-filter.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-sorter.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/json-types.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolution-session.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-config.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-event.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-observer.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-subscription.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-tag-indexer.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context-view.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/context.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/provider.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-inspector.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/binding-decorator.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/inject-config.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/invocation.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interception-proxy.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor-chain.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/interceptor.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/keys.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/resolver.d.ts",
+      "./node_modules/hyperid/index.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/unique-id.d.ts",
+      "./node_modules/@loopback/core/node_modules/@loopback/context/dist/index.d.ts",
+      "./node_modules/@loopback/core/dist/lifecycle.d.ts",
+      "./node_modules/@loopback/core/dist/server.d.ts",
+      "./node_modules/@loopback/core/dist/component.d.ts",
+      "./node_modules/@loopback/core/dist/service.d.ts",
+      "./node_modules/@loopback/core/dist/application.d.ts",
+      "./node_modules/@loopback/core/dist/extension-point.d.ts",
+      "./node_modules/@loopback/core/dist/lifecycle-registry.d.ts",
+      "./node_modules/@loopback/core/dist/keys.d.ts",
+      "./node_modules/@loopback/core/dist/mixin-target.d.ts",
+      "./node_modules/@loopback/core/dist/index.d.ts",
       "./node_modules/@types/range-parser/index.d.ts",
       "./node_modules/@types/express-serve-static-core/index.d.ts",
       "./node_modules/@types/mime/index.d.ts",
       "./node_modules/@types/serve-static/index.d.ts",
+      "./node_modules/@types/connect/index.d.ts",
+      "./node_modules/@types/body-parser/index.d.ts",
       "./node_modules/@types/express/index.d.ts",
+      "./src/websocket-demo-application.ts",
+      "./src/index.ts",
+      "./node_modules/@types/socket.io-client/index.d.ts",
+      "./node_modules/@types/cookiejar/index.d.ts",
+      "./node_modules/@types/superagent/index.d.ts",
+      "./node_modules/@types/supertest/index.d.ts",
+      "./node_modules/@loopback/testlab/dist/client.d.ts",
+      "./node_modules/@loopback/testlab/should-as-function.d.ts",
+      "./node_modules/@loopback/testlab/dist/expect.d.ts",
+      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts",
+      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts",
+      "./node_modules/@loopback/testlab/dist/request.d.ts",
+      "./node_modules/@types/shot/index.d.ts",
+      "./node_modules/@loopback/testlab/dist/shot.d.ts",
+      "./node_modules/@types/sinon/ts3.1/index.d.ts",
+      "./node_modules/@loopback/testlab/dist/sinon.d.ts",
+      "./node_modules/@loopback/testlab/dist/skip.d.ts",
+      "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts",
+      "./node_modules/@loopback/testlab/dist/to-json.d.ts",
+      "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts",
+      "./node_modules/@loopback/testlab/dist/index.d.ts",
+      "./node_modules/@loopback/testlab/index.d.ts",
+      "./src/test/acceptance/websocket.acceptance.ts",
+      "./node_modules/@types/eslint-visitor-keys/index.d.ts",
       "./node_modules/@types/fs-extra/index.d.ts",
       "./node_modules/@types/json-schema/index.d.ts",
       "./node_modules/@types/mocha/index.d.ts",
-      "./node_modules/@types/shot/index.d.ts",
-      "./node_modules/@types/sinon/ts3.1/index.d.ts",
-      "./node_modules/@types/socket.io-client/index.d.ts",
-      "./node_modules/@types/superagent/index.d.ts",
-      "./node_modules/@types/supertest/index.d.ts",
       "./node_modules/typescript/lib/lib.es2015.d.ts",
       "./node_modules/typescript/lib/lib.es2016.d.ts",
       "./node_modules/typescript/lib/lib.es2017.d.ts",

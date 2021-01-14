@@ -11,19 +11,20 @@
     "node": ">=8.9"
   },
   "scripts": {
+    "sample":"ls",
     "build": "lb-tsc",
     "build:watch": "lb-tsc --watch",
     "lint": "npm run eslint && npm run prettier:check",
     "lint:fix": "npm run eslint:fix && npm run prettier:fix",
     "prettier:cli": "lb-prettier \"**/*.ts\" \"**/*.js\"",
-    "prettier:check": "npm run prettier:cli -- -l",
-    "prettier:fix": "npm run prettier:cli -- --write",
+    "prettier:check": "npm run prettier:cli -c -l",
+    "prettier:fix": "npm run prettier:cli --write",
     "eslint": "lb-eslint --report-unused-disable-directives .",
     "eslint:fix": "npm run eslint -- --fix",
     "pretest": "npm run rebuild",
-    "test": "lb-mocha --allow-console-logs \"dist/__tests__\"",
+    "test": "lb-mocha --allow-console-logs \"dist/test\"",
     "posttest": "npm run lint",
-    "test:dev": "lb-mocha --allow-console-logs dist/__tests__/**/*.js && npm run posttest",
+    "test:dev": "lb-mocha --allow-console-logs dist/test/**/*.js && npm run posttest",
     "premigrate": "npm run build",
     "migrate": "node ./dist/migrate",
     "preopenapi-spec": "npm run build",
@@ -48,6 +49,7 @@
   ],
   "dependencies": {
     "@loopback/context": "^1.23.0",
+    "@loopback/core": "^2.13.1",
     "@loopback/http-server": "^1.4.13",
     "express": "^4.17.1",
     "socket.io": "^2.3.0"
