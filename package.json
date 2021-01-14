@@ -1,34 +1,37 @@
 {
-  "name": "loopback4-example-websocket",
+  "name": "loopback4-websocket",
   "version": "1.0.0",
-  "description": "loopback4-example-websocket",
+  "description": "loopback4-websocket",
   "keywords": [
     "loopback-application",
     "loopback"
   ],
-  "main": "index.js",
+  "main": "dist/index.js",
   "engines": {
     "node": ">=8.9"
   },
   "scripts": {
-    "build:apidocs": "lb-apidocs",
     "build": "lb-tsc",
     "build:watch": "lb-tsc --watch",
-    "clean": "lb-clean dist",
-    "lint": "npm run prettier:check && npm run eslint",
+    "lint": "npm run eslint && npm run prettier:check",
     "lint:fix": "npm run eslint:fix && npm run prettier:fix",
     "prettier:cli": "lb-prettier \"**/*.ts\" \"**/*.js\"",
     "prettier:check": "npm run prettier:cli -- -l",
     "prettier:fix": "npm run prettier:cli -- --write",
-    "eslint": "lb-eslint --cache --report-unused-disable-directives .",
+    "eslint": "lb-eslint --report-unused-disable-directives .",
     "eslint:fix": "npm run eslint -- --fix",
-    "pretest": "npm run clean && npm run build",
-    "test": "lb-mocha --allow-console-logs \"dist/test\"",
+    "pretest": "npm run rebuild",
+    "test": "lb-mocha --allow-console-logs \"dist/__tests__\"",
     "posttest": "npm run lint",
-    "test:dev": "lb-mocha --allow-console-logs dist/test/**/*.js && npm run posttest",
-    "prestart": "npm run build",
-    "start": "node .",
-    "prepublishOnly": "npm run test"
+    "test:dev": "lb-mocha --allow-console-logs dist/__tests__/**/*.js && npm run posttest",
+    "premigrate": "npm run build",
+    "migrate": "node ./dist/migrate",
+    "preopenapi-spec": "npm run build",
+    "openapi-spec": "node ./dist/openapi-spec",
+    "rebuild": "npm run clean && npm run build",
+    "prestart": "npm run rebuild",
+    "start": "node -r source-map-support/register .",
+    "clean": "lb-clean dist *.tsbuildinfo .eslintcache"
   },
   "repository": {
     "type": "git"
@@ -45,7 +48,6 @@
   ],
   "dependencies": {
     "@loopback/context": "^1.23.0",
-    "@loopback/core": "^1.10.2",
     "@loopback/http-server": "^1.4.13",
     "express": "^4.17.1",
     "socket.io": "^2.3.0"
