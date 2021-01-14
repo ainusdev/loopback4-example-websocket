@@ -1,4 +1,4 @@
-# loopback4-example-websocket
+# loopback4-websocket
 
 This example is created to explore how to expose Websocket [(socket.io)](https://socket.io) endpoints
 in conjunction with LoopBack controllers.
